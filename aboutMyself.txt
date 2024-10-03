@@ -1,2 +1,5 @@
-Tilte: Dr
+Title: Dr
 Full Name: Mohammed Naveed
+UG Degree: B.E - Mechanical Engineering
+PG Degree: M.Tech - MSE
+PhD Degree: Material Science
